@@ -15,7 +15,7 @@ Construido con **Next.js**, **TailwindCSS**, **Radix UI** y conectado al backend
 
 ---
 
-## ⚙️ Requisitos previos
+## ⚙️ Requisitos previos 
 - Node.js >= 18
 - npm o yarn
 - Tener corriendo el backend (o usar el desplegado en Render)
